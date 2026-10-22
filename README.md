@@ -1,6 +1,6 @@
 # Cosmic Watcher Detector
 
-3D model of the Cosmic Watcher detector.
+3D model of the Cosmic Watcher detector designed using AutoCAD Fusion 360.
 
 ## Model Views
 
